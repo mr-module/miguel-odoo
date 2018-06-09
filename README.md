@@ -4,11 +4,9 @@ We have delivered more than 100 projects for our clients present globally. We ha
 
 Mainly focused over Odoo ERP Customizations, Python, Django, Ruby on Rails, React JS and other preferred Javascript Frameworks.
 
-100+                                 ||  3
-Projects                             ||  Branches    
+100+ Projets  || 3 Branches    
 =====================================================
-50+                                  ||  12+
-Clients                              ||  Skills Set
+50+ Clients   || 12+ Skills Set
 =====================================================
 
 For more info visit - http://opensysknw.com
