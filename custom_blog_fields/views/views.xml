@@ -1,0 +1,14 @@
+<odoo>
+    <data>
+        <record id="custom_blog_inherited_view" model="ir.ui.view">
+            <field name="name">custom.blog.inherited.view</field>
+            <field name="model">blog.post</field>
+            <field name="inherit_id" ref="website_blog.view_blog_post_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//group" position="before">
+                    <field name="image" widget="image" nolabel="1" style="float:left !important" class="oe_avatar" options="{'preview_image':'image_medium'}"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>
