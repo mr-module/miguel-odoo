@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+<template id="assets_editor" inherit_id="web_editor.assets_editor">
+    <xpath expr=".">
+        <script type="text/javascript"
+                src="/website_img_link/static/src/js/anchor_option.js"/>
+        <script type="text/javascript"
+                src="/website_img_link/static/src/js/link_dialog.js"/>
+    </xpath>
+</template>
+
+</odoo>
